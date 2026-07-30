@@ -1,0 +1,22 @@
+# File checksums (SHA-256, first 16 chars)
+
+- `.agents/rules/assignment7.md` — `c0d6943c9dbbe965`
+- `.gitignore` — `0dcbd4c251fea232`
+- `AGENT_GUIDE.md` — `4819424a7743f4ff`
+- `README.md` — `20417155e4ca2c79`
+- `STARTER_MANIFEST.md` — `450bed6f8acdea57`
+- `START_HERE.md` — `0f5582629bbae123`
+- `WORK_LOG.md` — `3f8ada364c840d3e`
+- `docs/plan.md` — `7124fd6fef8b3ad3`
+- `docs/spec.md` — `fcc97a9b6e4863ec`
+- `index.html` — `e8b93387320c3333`
+- `package.json` — `ec0c05bb0595541b`
+- `src/App.tsx` — `19e2f185d69c95de`
+- `src/app/README.md` — `7fea010add68e80a`
+- `src/features/notes/README.md` — `784ba21fed12208c`
+- `src/index.css` — `dd930ef8ca00649e`
+- `src/main.tsx` — `6c050573ffb6b9a7`
+- `tsconfig.app.json` — `3135b357c842aa04`
+- `tsconfig.json` — `3a11d1d758b82cea`
+- `tsconfig.node.json` — `8ba61580717daf00`
+- `vite.config.ts` — `6dc0ce25c4170ac9`
