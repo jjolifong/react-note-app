@@ -31,7 +31,7 @@ textarea {
   padding: 32px 20px;
 }
 
-.starter-card {
+.notes-app {
   width: min(760px, 100%);
   padding: clamp(28px, 6vw, 56px);
   border: 1px solid #d7deea;
@@ -40,66 +40,15 @@ textarea {
   box-shadow: 0 20px 60px rgb(31 48 74 / 10%);
 }
 
-.eyebrow {
-  margin: 0 0 8px;
-  color: #315ea8;
-  font-size: 0.82rem;
-  font-weight: 800;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-}
-
-h1 {
+.notes-app h1 {
   margin: 0;
-  font-size: clamp(2rem, 7vw, 3.8rem);
+  font-size: clamp(2rem, 7vw, 3rem);
   letter-spacing: -0.04em;
 }
 
-h2 {
-  margin-top: 32px;
-  font-size: 1.1rem;
-}
-
-.lead {
-  margin: 18px 0 0;
+.empty-state {
+  margin-top: 24px;
   color: #526177;
   font-size: 1.05rem;
   line-height: 1.75;
-}
-
-.status-box {
-  margin-top: 28px;
-  padding: 16px 18px;
-  display: grid;
-  gap: 4px;
-  border-radius: 14px;
-  background: #edf4ff;
-  color: #244574;
-}
-
-.status-box span {
-  color: #506b91;
-  font-size: 0.92rem;
-}
-
-.checklist {
-  margin: 14px 0 0;
-  padding-left: 1.35rem;
-  color: #39485d;
-  line-height: 1.8;
-}
-
-.commands {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 28px;
-}
-
-.commands code {
-  padding: 8px 11px;
-  border: 1px solid #d9e1ec;
-  border-radius: 9px;
-  background: #f8fafc;
-  color: #243349;
 }
